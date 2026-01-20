@@ -329,7 +329,8 @@ body {
 
 .skill-list {
     list-style: none;
-    padding-left: calc(28px + 0.6rem);
+    padding-left: 0;
+    margin-left: calc(28px + 0.6rem);
 }
 
 .skill-list li {
