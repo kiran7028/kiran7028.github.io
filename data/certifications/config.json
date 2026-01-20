@@ -3,23 +3,23 @@
         {
             "id": "aws",
             "title": "AWS Certifications",
-            "icon": "assets/aws.png",
+            "icon": "assets/images/icons/aws.png",
             "iconAlt": "AWS",
-            "dataFile": "certifications/aws-certifications.json"
+            "dataFile": "data/certifications/aws.json"
         },
         {
             "id": "devops",
             "title": "DevOps Certifications",
-            "icon": "assets/docker.png",
+            "icon": "assets/images/icons/docker.png",
             "iconAlt": "DevOps",
-            "dataFile": "certifications/devops-certifications.json"
+            "dataFile": "data/certifications/devops.json"
         },
         {
             "id": "kubernetes",
             "title": "Kubernetes Certifications",
-            "icon": "assets/kubernetes.png",
+            "icon": "assets/images/icons/kubernetes.png",
             "iconAlt": "Kubernetes",
-            "dataFile": "certifications/kubernetes-certifications.json"
+            "dataFile": "data/certifications/kubernetes.json"
         }
     ]
 }

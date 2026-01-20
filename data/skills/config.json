@@ -3,23 +3,23 @@
         {
             "id": "aws",
             "title": "AWS Services",
-            "icon": "assets/aws.png",
+            "icon": "assets/images/icons/aws.png",
             "iconAlt": "AWS",
-            "dataFile": "skills/aws-skills.json"
+            "dataFile": "data/skills/aws.json"
         },
         {
             "id": "devops",
             "title": "DevOps Tools",
-            "icon": "assets/docker.png",
+            "icon": "assets/images/icons/docker.png",
             "iconAlt": "DevOps",
-            "dataFile": "skills/devops-skills.json"
+            "dataFile": "data/skills/devops.json"
         },
         {
             "id": "programming",
             "title": "Programming",
-            "icon": "assets/python.png",
+            "icon": "assets/images/icons/python.png",
             "iconAlt": "Programming",
-            "dataFile": "skills/programming-skills.json"
+            "dataFile": "data/skills/programming.json"
         }
     ]
 }
