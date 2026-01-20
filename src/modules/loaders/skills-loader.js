@@ -11,7 +11,9 @@ class SkillsLoader {
 
     async init() {
         try {
+            console.log('Loading skills from:', this.configPath);
             const config = await this.loadJSON(this.configPath);
+            console.log('Loaded config:', config);
             await this.renderSkills(config.categories);
         } catch (error) {
             console.error('Error loading skills:', error);
@@ -20,7 +22,9 @@ class SkillsLoader {
     }
 
     async loadJSON(path) {
+        console.log('Fetching data from:', path);
         const response = await fetch(path);
+        console.log('Fetch response:', response);
         if (!response.ok) {
             throw new Error(`Failed to load ${path}`);
         }
