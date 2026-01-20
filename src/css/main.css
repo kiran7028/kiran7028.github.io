@@ -329,6 +329,7 @@ body {
     padding: 0.65rem 0;
     border-top: 1px solid rgba(255, 255, 255, 0.08);
     color: var(--muted);
+    text-align: left;
 }
 
 .skill-list li:first-child {
