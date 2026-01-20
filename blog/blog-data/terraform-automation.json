@@ -1,0 +1,5 @@
+{
+    "title": "How I automated EC2 provisioning with Terraform",
+    "summary": "Reusable modules, workspaces, and remote state patterns for safe infra changes.",
+    "url": "#blog"
+}

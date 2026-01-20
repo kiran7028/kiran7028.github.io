@@ -1,0 +1,25 @@
+{
+    "categories": [
+        {
+            "id": "aws",
+            "title": "AWS Certifications",
+            "icon": "assets/aws.png",
+            "iconAlt": "AWS",
+            "dataFile": "certifications/aws-certifications.json"
+        },
+        {
+            "id": "devops",
+            "title": "DevOps Certifications",
+            "icon": "assets/docker.png",
+            "iconAlt": "DevOps",
+            "dataFile": "certifications/devops-certifications.json"
+        },
+        {
+            "id": "kubernetes",
+            "title": "Kubernetes Certifications",
+            "icon": "assets/kubernetes.png",
+            "iconAlt": "Kubernetes",
+            "dataFile": "certifications/kubernetes-certifications.json"
+        }
+    ]
+}

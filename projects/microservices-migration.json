@@ -1,0 +1,21 @@
+{
+    "title": "Microservices Migration & Service Mesh",
+    "technologies": [
+        "Istio",
+        "Kubernetes",
+        "Envoy",
+        "Jaeger",
+        "Kiali"
+    ],
+    "description": "Migrated monolithic application to microservices architecture with Istio service mesh implementation. Added traffic management, security policies, observability, and distributed tracing for better service communication.",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "#"
+        },
+        {
+            "label": "Architecture Diagram",
+            "url": "#"
+        }
+    ]
+}

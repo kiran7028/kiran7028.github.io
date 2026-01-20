@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Docker"
+    },
+    {
+        "name": "Kubernetes &amp; Containerization"
+    },
+    {
+        "name": "Jenkins (CI/CD)"
+    },
+    {
+        "name": "Git, Gitlab &amp; GitHub"
+    },
+    {
+        "name": "Terraform"
+    },
+    {
+        "name": "Ansible"
+    },
+    {
+        "name": "Linux Administration"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "https://github.com/jkiranj7028",
+            "ariaLabel": "GitHub"
+        },
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/kiran-kumar-54238817",
+            "ariaLabel": "LinkedIn"
+        },
+        {
+            "label": "Email",
+            "url": "mailto:kiran7028@gmail.com",
+            "ariaLabel": "Email"
+        },
+        {
+            "label": "WhatsApp",
+            "url": "https://wa.me/919491853475",
+            "icon": "fa-brands fa-whatsapp",
+            "iconColor": "#25D366",
+            "ariaLabel": "WhatsApp"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Docker Certified Associate (DCA)",
+        "issuer": "Docker Inc.",
+        "date": "2024",
+        "credentialId": "DCA-2024",
+        "verifyUrl": ""
+    },
+    {
+        "name": "HashiCorp Certified: Terraform Associate",
+        "issuer": "HashiCorp",
+        "date": "2023",
+        "credentialId": "003",
+        "verifyUrl": ""
+    },
+    {
+        "name": "Jenkins Engineer Certification",
+        "issuer": "CloudBees",
+        "date": "2023",
+        "credentialId": "JEC-2023",
+        "verifyUrl": ""
+    }
+]

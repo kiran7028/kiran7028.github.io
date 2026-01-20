@@ -1,0 +1,21 @@
+{
+    "title": "Monitoring & Alerting System",
+    "technologies": [
+        "Prometheus",
+        "Grafana",
+        "AlertManager",
+        "ELK Stack",
+        "PagerDuty"
+    ],
+    "description": "Implemented comprehensive monitoring solution with custom dashboards, automated alerting, log aggregation, and incident management. Achieved 99.9% uptime with proactive issue detection and resolution.",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "#"
+        },
+        {
+            "label": "Grafana Dashboard",
+            "url": "#"
+        }
+    ]
+}

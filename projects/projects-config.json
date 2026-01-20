@@ -1,0 +1,25 @@
+{
+    "sectionTitle": "DevOps Projects",
+    "projects": [
+        {
+            "id": "kubernetes-cluster",
+            "dataFile": "projects/kubernetes-cluster.json"
+        },
+        {
+            "id": "cicd-pipeline",
+            "dataFile": "projects/cicd-pipeline.json"
+        },
+        {
+            "id": "terraform-iac",
+            "dataFile": "projects/terraform-iac.json"
+        },
+        {
+            "id": "monitoring-system",
+            "dataFile": "projects/monitoring-system.json"
+        },
+        {
+            "id": "microservices-migration",
+            "dataFile": "projects/microservices-migration.json"
+        }
+    ]
+}

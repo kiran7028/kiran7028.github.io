@@ -1,0 +1,23 @@
+[
+  {
+    "name": "EC2 (Elastic Compute Cloud)"
+  },
+  {
+    "name": "S3 (Simple Storage Service)"
+  },
+  {
+    "name": "RDS (Relational Database Service)"
+  },
+  {
+    "name": "Lambda (Serverless Computing)"
+  },
+  {
+    "name": "CloudFormation"
+  },
+  {
+    "name": "IAM (Identity Access Management)"
+  },
+  {
+    "name": "VPC (Virtual Private Cloud)"
+  }
+]

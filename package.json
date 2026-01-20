@@ -1,0 +1,40 @@
+{
+  "name": "devops-portfolio",
+  "version": "1.0.0",
+  "description": "Modern DevOps Engineer Portfolio - Kiran Kumar J",
+  "author": "Kiran Kumar J <kiran7028@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000 --directory .",
+    "dev": "python3 -m http.server 8000 --directory .",
+    "build": "echo 'Project uses static files. Run start for local development.'",
+    "deploy": "bash deploy-to-s3.sh",
+    "test": "echo 'Tests can be added here'"
+  },
+  "keywords": [
+    "DevOps",
+    "AWS",
+    "Kubernetes",
+    "Docker",
+    "CI/CD",
+    "Portfolio",
+    "Terraform",
+    "Jenkins"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiran7028/kiran7028profile.github.io"
+  },
+  "homepage": "https://kiran7028profile.github.io",
+  "bugs": {
+    "url": "https://github.com/kiran7028/kiran7028profile.github.io/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

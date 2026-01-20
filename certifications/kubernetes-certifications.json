@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Certified Kubernetes Administrator (CKA)",
+        "issuer": "Cloud Native Computing Foundation",
+        "date": "2024",
+        "credentialId": "CKA-2024",
+        "verifyUrl": ""
+    },
+    {
+        "name": "Certified Kubernetes Application Developer (CKAD)",
+        "issuer": "Cloud Native Computing Foundation",
+        "date": "2024",
+        "credentialId": "CKAD-2024",
+        "verifyUrl": ""
+    }
+]

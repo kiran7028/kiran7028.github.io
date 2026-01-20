@@ -1,0 +1,21 @@
+{
+    "title": "Multi-Cloud Kubernetes Cluster",
+    "technologies": [
+        "AWS EKS",
+        "Terraform",
+        "Helm",
+        "Prometheus",
+        "Grafana"
+    ],
+    "description": "Deployed a highly available Kubernetes cluster across multiple AWS availability zones with automated scaling, monitoring, and disaster recovery capabilities. Implemented GitOps workflow with ArgoCD for continuous deployment.",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "#"
+        },
+        {
+            "label": "Live Demo",
+            "url": "#"
+        }
+    ]
+}

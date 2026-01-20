@@ -1,0 +1,13 @@
+{
+    "sectionTitle": "Blog & Knowledge Sharing",
+    "articles": [
+        {
+            "id": "terraform-automation",
+            "dataFile": "blog/blog-data/terraform-automation.json"
+        },
+        {
+            "id": "cicd-best-practices",
+            "dataFile": "blog/blog-data/cicd-best-practices.json"
+        }
+    ]
+}

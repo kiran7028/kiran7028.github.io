@@ -1,0 +1,22 @@
+{
+    "title": "Infrastructure as Code with Terraform",
+    "technologies": [
+        "Terraform",
+        "AWS",
+        "VPC",
+        "RDS",
+        "S3",
+        "CloudFront"
+    ],
+    "description": "Created reusable Terraform modules for provisioning AWS infrastructure including VPC, subnets, security groups, RDS databases, S3 buckets, and CloudFront distributions with state management and remote backend.",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "https://github.com/jkiranj7028/aws-vpc-project-complete"
+        },
+        {
+            "label": "Terraform Registry",
+            "url": "#"
+        }
+    ]
+}

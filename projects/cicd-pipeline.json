@@ -1,0 +1,21 @@
+{
+    "title": "CI/CD Pipeline with Jenkins & Docker",
+    "technologies": [
+        "Jenkins",
+        "Docker",
+        "SonarQube",
+        "Nexus",
+        "Slack"
+    ],
+    "description": "Built a comprehensive CI/CD pipeline for microservices architecture with automated testing, security scanning, containerization, and deployment to staging/production environments with rollback capabilities.",
+    "links": [
+        {
+            "label": "GitHub",
+            "url": "#"
+        },
+        {
+            "label": "Documentation",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "date": "2024",
+        "credentialId": "SAA-C03",
+        "verifyUrl": ""
+    },
+    {
+        "name": "AWS Certified DevOps Engineer - Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2024",
+        "credentialId": "DOP-C02",
+        "verifyUrl": ""
+    },
+    {
+        "name": "AWS Certified SysOps Administrator - Associate",
+        "issuer": "Amazon Web Services",
+        "date": "2023",
+        "credentialId": "SOA-C02",
+        "verifyUrl": ""
+    }
+]
