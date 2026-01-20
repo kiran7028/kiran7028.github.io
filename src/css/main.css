@@ -126,6 +126,11 @@ body {
     font-weight: 700;
 }
 
+/* Hide Certifications Label as requested */
+#certifications h2 {
+    display: none;
+}
+
 /* Hero Section */
 .hero {
     padding: 4rem 0;
