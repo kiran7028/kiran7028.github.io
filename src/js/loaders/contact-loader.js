@@ -52,11 +52,12 @@ class ContactLoader {
 
     renderSocialLink(link) {
         if (link.icon) {
-            return `<a href="${link.url}" target="_blank" aria-label="${link.ariaLabel}" class="project-link" style="display:flex;align-items:center;gap:0.4rem;">
-                        <i class="${link.icon}" style="font-size:18px;"></i>
-                        ${link.label}
+            const iconStyle = link.iconColor ? `color: ${link.iconColor};` : '';
+            return `<a href="${link.url}" target="_blank" aria-label="${link.ariaLabel}" class="social-icon-link" rel="noopener">
+                        <i class="${link.icon}" style="font-size: 28px; ${iconStyle}"></i>
                     </a>`;
         } else {
+            // Fallback if no icon is provided
             return `<a href="${link.url}" target="_blank" rel="noopener" aria-label="${link.ariaLabel}" class="project-link">${link.label}</a>`;
         }
     }

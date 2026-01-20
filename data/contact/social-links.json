@@ -3,16 +3,19 @@
         {
             "label": "GitHub",
             "url": "https://github.com/jkiranj7028",
+            "icon": "fa-brands fa-github",
             "ariaLabel": "GitHub"
         },
         {
             "label": "LinkedIn",
             "url": "https://www.linkedin.com/in/kiran-kumar-54238817",
+            "icon": "fa-brands fa-linkedin",
             "ariaLabel": "LinkedIn"
         },
         {
             "label": "Email",
             "url": "mailto:kiran7028@gmail.com",
+            "icon": "fa-solid fa-envelope",
             "ariaLabel": "Email"
         },
         {
