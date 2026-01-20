@@ -126,9 +126,9 @@ body {
     font-weight: 700;
 }
 
-/* Hide Certifications Label as requested */
-#certifications h2 {
-    display: none;
+/* Hide entire Certifications section as requested */
+#certifications {
+    display: none !important;
 }
 
 /* Hero Section */
