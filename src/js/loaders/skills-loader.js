@@ -6,7 +6,7 @@
 class SkillsLoader {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.configPath = 'skills/skills-config.json';
+        this.configPath = 'data/skills/config.json';
     }
 
     async init() {

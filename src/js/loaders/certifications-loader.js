@@ -6,7 +6,7 @@
 class CertificationsLoader {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.configPath = 'certifications/certifications-config.json';
+        this.configPath = 'data/certifications/config.json';
     }
 
     async init() {

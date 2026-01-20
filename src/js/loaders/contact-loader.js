@@ -6,8 +6,8 @@
 class ContactLoader {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.configPath = 'contact/contact-config.json';
-        this.socialLinksPath = 'contact/social-links.json';
+        this.configPath = 'data/contact/contact-config.json';
+        this.socialLinksPath = 'data/contact/social-links.json';
     }
 
     async init() {

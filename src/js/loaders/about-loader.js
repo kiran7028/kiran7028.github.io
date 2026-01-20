@@ -6,7 +6,7 @@
 class AboutLoader {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.dataPath = 'about/about-content.json';
+        this.dataPath = 'data/about.json';
     }
 
     async init() {

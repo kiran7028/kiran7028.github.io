@@ -6,7 +6,7 @@
 class ProjectsLoader {
     constructor(containerId) {
         this.container = document.getElementById(containerId);
-        this.configPath = 'projects/projects-config.json';
+        this.configPath = 'data/projects/config.json';
     }
 
     async init() {

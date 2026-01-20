@@ -1,11 +1,11 @@
-# Robots.txt for kiran7028profile.github.io
+# Robots.txt for kiran7028.github.io
 # Allow all search engines to crawl the site
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://kiran7028profile.github.io/sitemap.xml
+Sitemap: https://kiran7028.github.io/sitemap.xml
 
 # Disallow crawling of specific paths (if any)
 # Disallow: /private/

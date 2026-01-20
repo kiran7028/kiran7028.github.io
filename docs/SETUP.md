@@ -4,7 +4,7 @@
 
 This is a modern, modular DevOps Engineer portfolio built with vanilla JavaScript, featuring dynamic content loading from JSON files and a responsive design with dark/light theme support.
 
-**Live Site:** [https://kiran7028profile.github.io](https://kiran7028profile.github.io)
+**Live Site:** [https://kiran7028.github.io](https://kiran7028.github.io)
 
 ## Project Structure
 
@@ -93,8 +93,8 @@ portfolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kiran7028/kiran7028profile.github.io.git
-cd kiran7028profile.github.io
+git clone https://github.com/kiran7028/kiran7028.github.io.git
+cd kiran7028.github.io
 ```
 
 ### 2. Install Dependencies
@@ -388,7 +388,7 @@ MIT - See LICENSE file
 
 - Email: kiran7028@gmail.com
 - GitHub: https://github.com/kiran7028
-- Portfolio: https://kiran7028profile.github.io
+- Portfolio: https://kiran7028.github.io
 
 ---
 

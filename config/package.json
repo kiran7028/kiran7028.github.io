@@ -25,11 +25,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiran7028/kiran7028profile.github.io"
+    "url": "https://github.com/kiran7028/kiran7028.github.io"
   },
-  "homepage": "https://kiran7028profile.github.io",
+  "homepage": "https://kiran7028.github.io",
   "bugs": {
-    "url": "https://github.com/kiran7028/kiran7028profile.github.io/issues"
+    "url": "https://github.com/kiran7028/kiran7028.github.io/issues"
   },
   "engines": {
     "node": ">=14.0.0"
