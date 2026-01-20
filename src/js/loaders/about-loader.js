@@ -30,7 +30,6 @@ class AboutLoader {
     renderAbout(data) {
         if (this.container) {
             this.container.innerHTML = `
-                <h2>${data.title}</h2>
                 <p>${data.content}</p>
             `;
         }
@@ -39,7 +38,6 @@ class AboutLoader {
     showError() {
         if (this.container) {
             this.container.innerHTML = `
-                <h2>About Me</h2>
                 <p style="color: var(--muted);">Unable to load content. Please try again later.</p>
             `;
         }

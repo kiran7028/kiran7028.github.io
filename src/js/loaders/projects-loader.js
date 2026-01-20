@@ -34,7 +34,6 @@ class ProjectsLoader {
 
         if (this.container) {
             this.container.innerHTML = `
-                <h2>${config.sectionTitle}</h2>
                 <div class="projects-grid">
                     ${projects.join('')}
                 </div>
@@ -65,7 +64,6 @@ class ProjectsLoader {
     showError() {
         if (this.container) {
             this.container.innerHTML = `
-                <h2>DevOps Projects</h2>
                 <p style="color: var(--muted);">Unable to load projects. Please try again later.</p>
             `;
         }
