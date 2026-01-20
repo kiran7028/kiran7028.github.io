@@ -18,6 +18,7 @@ class SkillsLoader {
         } catch (error) {
             console.error('Error loading skills:', error);
             this.showError();
+            console.log('Error details:', error);
         }
     }
 
@@ -51,6 +52,8 @@ class SkillsLoader {
         const skillItems = skills
             .map(skill => `<li>${skill.name}</li>`)
             .join('');
+
+        console.log('Image source:', category.icon); // Verify the image source
 
         return `
             <article class="skill-panel">
